@@ -1,6 +1,0 @@
-{
-    "python.formatting.provider": "black",
-    "python.pythonPath": "/Users/luislffm/miniconda3/envs/mygty/bin/python",
-    "python.linting.pylintEnabled": true,
-    "python.linting.enabled": true
-}
